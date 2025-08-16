@@ -16,9 +16,10 @@ create table retail_sales(
 
 )
 
+-- counting the records 
 select count(*) from retail_sales;
 
-select * from retail_sales;
+-- displaying the null values 
 
 select * from retail_sales 
 where 
@@ -57,7 +58,7 @@ where
 	;
 
 
-select count(*) from retail_sales
+
 
 
 -- data exploration
